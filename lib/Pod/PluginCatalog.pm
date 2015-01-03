@@ -21,8 +21,8 @@ use 5.010;
 use Moose;
 use namespace::autoclean;
 
-our $VERSION = '0.01';
-# This file is part of Pod-PluginCatalog 0.01 (July 28, 2012)
+our $VERSION = '0.02';
+# This file is part of Pod-PluginCatalog 0.02 (January 3, 2015)
 
 use autodie ':io';
 use Encode ();
@@ -329,9 +329,9 @@ Pod::PluginCatalog - Format a catalog of plugin modules
 
 =head1 VERSION
 
-This document describes version 0.01 of
-Pod::PluginCatalog, released July 28, 2012
-as part of Pod-PluginCatalog version 0.01.
+This document describes version 0.02 of
+Pod::PluginCatalog, released January 3, 2015
+as part of Pod-PluginCatalog version 0.02.
 
 =head1 SYNOPSIS
 
@@ -541,11 +541,11 @@ or through the web interface at
 L<< http://rt.cpan.org/Public/Bug/Report.html?Queue=Pod-PluginCatalog >>.
 
 You can follow or contribute to Pod-PluginCatalog's development at
-L<< http://github.com/madsen/pod-plugincatalog >>.
+L<< https://github.com/madsen/pod-plugincatalog >>.
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Christopher J. Madsen.
+This software is copyright (c) 2015 by Christopher J. Madsen.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

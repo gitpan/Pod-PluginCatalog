@@ -1,4 +1,4 @@
-Pod-PluginCatalog version 0.01, released July 28, 2012
+Pod-PluginCatalog version 0.02, released January 3, 2015
 
 
 This module aids in formatting a tag-based catalog of plugins.  It
@@ -35,16 +35,17 @@ DEPENDENCIES
 
 
 CHANGES
-    Here's what's new in version 0.01 of Pod-PluginCatalog:
+    Here's what's new in version 0.02 of Pod-PluginCatalog:
     (See the file "Changes" for the full revision history.)
 
-	- Initial release
+	- no functional changes
+	- release tests moved to xt/
 
 
 
 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Christopher J. Madsen.
+This software is copyright (c) 2015 by Christopher J. Madsen.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
